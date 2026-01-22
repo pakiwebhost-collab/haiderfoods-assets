@@ -26803,18 +26803,19 @@
 .far {
     font-weight: 400
 }
-
 @font-face {
     font-family: "Font Awesome 6 Pro";
     font-style: normal;
     font-weight: 900;
     font-display: block;
-    src: url(../../fonts/fa-solid-900.woff2) format("woff2"), url(../../fonts/fa-solid-900.woff) format("woff"), url(../../fonts/fa-solid-900.ttf) format("truetype")
+    src: url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-solid-900.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-solid-900.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-solid-900.ttf") format("truetype");
 }
 
 .fa-solid,
 .fas {
-    font-weight: 900
+    font-weight: 900;
 }
 
 @font-face {
@@ -26822,8 +26823,11 @@
     font-style: normal;
     font-weight: 100;
     font-display: block;
-    src: url(../../fonts/fa-thin-100.woff2) format("woff2"), url(../../fonts/fa-thin-100.woff) format("woff"), url(../../fonts/fa-thin-100.ttf) format("truetype")
+    src: url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-thin-100.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-thin-100.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-thin-100.ttf") format("truetype");
 }
+
 
 .fa-solid,
 .fa-thin,
