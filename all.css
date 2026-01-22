@@ -10920,8 +10920,9 @@
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src: url(../../fonts/fa-brands-400.woff2) format("woff2"), url(../../fonts/fa-brands-400.woff) format("woff"), url(../../fonts/fa-brands-400.ttf) format("truetype")
+    src: url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-brands-400.woff2") format("woff2");
 }
+
 
 .fa-brands,
 .fab {
@@ -12753,8 +12754,9 @@
     font-style: normal;
     font-weight: 900;
     font-display: block;
-    src: url(../../fonts/fa-duotone-900.woff2) format("woff2"), url(../../fonts/fa-duotone-900.woff) format("woff"), url(../../fonts/fa-duotone-900.ttf) format("truetype")
+    src: url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-duotone-900.woff2") format("woff2");
 }
+
 
 .fa-duotone,
 .fad {
@@ -26776,12 +26778,12 @@
     font-style: normal;
     font-weight: 300;
     font-display: block;
-    src: url(../../fonts/fa-light-300.woff2) format("woff2"), url(../../fonts/fa-light-300.woff) format("woff"), url(../../fonts/fa-light-300.ttf) format("truetype")
+    src: url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-light-300.woff2") format("woff2");
 }
 
 .fa-light,
 .fal {
-    font-weight: 300
+    font-weight: 300;
 }
 
 @font-face {
@@ -26789,7 +26791,7 @@
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src: url(../../fonts/fa-regular-400.woff2) format("woff2"), url(../../fonts/fa-regular-400.woff) format("woff"), url(../../fonts/fa-regular-400.ttf) format("truetype")
+    src: url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-regular-400.woff2") format("woff2");
 }
 
 .fa-light,
@@ -26808,9 +26810,7 @@
     font-style: normal;
     font-weight: 900;
     font-display: block;
-    src: url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-solid-900.woff2") format("woff2"),
-         url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-solid-900.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-solid-900.ttf") format("truetype");
+    src: url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-solid-900.woff2") format("woff2");
 }
 
 .fa-solid,
@@ -26823,9 +26823,7 @@
     font-style: normal;
     font-weight: 100;
     font-display: block;
-    src: url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-thin-100.woff2") format("woff2"),
-         url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-thin-100.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-thin-100.ttf") format("truetype");
+    src: url("https://cdn.jsdelivr.net/gh/pakiwebhost-collab/haiderfoods-assets@main/fonts/fa-thin-100.woff2") format("woff2");
 }
 
 
